@@ -15,3 +15,11 @@ second line''')
 print("I can print the double quote (\") using the the backslash")
 
 
+#new line character
+#output:
+#
+#first line
+#second line
+#
+#the \n makes a new line
+print("first line \nsecond line")
